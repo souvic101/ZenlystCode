@@ -1,0 +1,10 @@
+
+#these Disorders are not considerd as GAD
+['ASD', 'psychotic deprission', 'PDD', 'bipolar']
+
+#these Disorders are not considerd as Bipolar Disorder
+['ASD', 'Loneliness', 'OCD']
+
+# no significant overlap with Social Anxiety Disorder (SAD):
+
+['psychotic deprission', 'bipolar', 'sleeping disorder']
